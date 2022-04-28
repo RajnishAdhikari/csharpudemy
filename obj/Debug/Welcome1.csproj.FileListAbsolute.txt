@@ -1,0 +1,8 @@
+E:\c#_sharpand.net_framework\Welcome1\bin\Debug\Welcome1.exe.config
+E:\c#_sharpand.net_framework\Welcome1\bin\Debug\Welcome1.exe
+E:\c#_sharpand.net_framework\Welcome1\bin\Debug\Welcome1.pdb
+E:\c#_sharpand.net_framework\Welcome1\obj\Debug\Welcome1.csproj.AssemblyReference.cache
+E:\c#_sharpand.net_framework\Welcome1\obj\Debug\Welcome1.csproj.SuggestedBindingRedirects.cache
+E:\c#_sharpand.net_framework\Welcome1\obj\Debug\Welcome1.csproj.CoreCompileInputs.cache
+E:\c#_sharpand.net_framework\Welcome1\obj\Debug\Welcome1.exe
+E:\c#_sharpand.net_framework\Welcome1\obj\Debug\Welcome1.pdb
