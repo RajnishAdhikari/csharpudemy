@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abstract_class.cs" />
+    <Compile Include="function_overloading.cs" />
+    <Compile Include="Hierarchial_Inheritance.cs" />
+    <Compile Include="Interface_Multiple_Inheritance.cs" />
+    <Compile Include="Simlple_Interface.cs" />
+    <Compile Include="single_inheritance.cs" />
     <Compile Include="Welcome1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
